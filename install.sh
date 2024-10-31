@@ -33,4 +33,4 @@ docker run -d --name pterodactyl_wings \
 pterodactyl/wings:latest
 
 echo "Pterodactyl Panel and Wings installation is complete."
-echo "Access the panel by visiting http://<YOUR_VPS_IP>"
+echo "Access the panel by visiting http://172.17.0.4"
